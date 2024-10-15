@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PurchaseTracking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86750e3076b2339d553fbdcb3718519dc9e1e043")]
 [assembly: System.Reflection.AssemblyProductAttribute("PurchaseTracking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PurchaseTracking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
